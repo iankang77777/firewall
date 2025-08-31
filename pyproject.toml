@@ -1,7 +1,17 @@
 [project]
-name = "firewall"
+name = "nextop-firewall"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "mitmproxy>=12.1.1",
+    "ollama>=0.5.3",
+    "psutil>=7.0.0",
+    "pydivert>=2.1.0",
+    "python-dotenv>=1.1.1",
+    "requests>=2.32.4",
+    "ruff>=0.12.1",
+    "scapy>=2.6.1",
+    "textual>=3.5.0",
+]

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/firewall.iml" filepath="$PROJECT_DIR$/.idea/firewall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/iankang.iml" filepath="$PROJECT_DIR$/.idea/iankang.iml" />
     </modules>
   </component>
 </project>
